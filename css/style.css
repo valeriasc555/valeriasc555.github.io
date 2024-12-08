@@ -15,17 +15,45 @@
 .vale{
 	border: 1px solid black;
 	width: 400px;
+	margin-left: 30px;
 }
 
 .text{
-	border: 1px solid black;
-	margin-bottom: 30px;
+	border: 1px #b2e399;
+	margin-bottom: 70px;
+	background-color: #b2e399;
+	margin-top: 70px;
 
-}
+	}
 .mal{
 
 }
 
 h1{
 	text-align: center;
+}
+
+.tite{
+	margin-bottom: 70px;
+}
+
+.space{
+	margin-bottom: 70px;
+}
+.col{
+	color: #cc0000;
+}
+
+.spa{
+	margin-bottom: 70px;
+}
+.shu{
+	margin-top: 60px;
+}
+
+.container{
+	background-color: beige
+}
+.emp{
+	margin-bottom: 70px;
 }

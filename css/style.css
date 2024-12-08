@@ -1,5 +1,6 @@
 .abc{width: 400px;
 	border: 1px solid black;
+	margin-bottom: 60
 }
 .img{
 	border: 1px solid black;
@@ -22,7 +23,7 @@
 	border: 1px #b2e399;
 	margin-bottom: 70px;
 	background-color: #b2e399;
-	margin-top: 70px;
+	margin-top: 50px;
 
 	}
 .mal{
